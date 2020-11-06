@@ -1,4 +1,4 @@
-sek = input("sekundi: ")
+sek = input("Unesite broj sekundi: ")
 sek = int(sek)
 if sek < 0 or sek > 86400:
     print("Greska.")
